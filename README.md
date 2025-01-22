@@ -8,3 +8,6 @@ runqemu core-image-minimal nographic
 ```
  <img src="runqemu.png" alt="coonect to the machine  " width="900" height="700"> 
 
+${CC} : compiler (for example , gcc) defines by  Yocto.
+${CFLAGS} : option of  compilation (optimisations, architecture cible, etc.).
+${LDFLAGS} : options of  linker to generate compatible binaries.
