@@ -12,3 +12,6 @@ runqemu core-image-minimal nographic
 ${CC} : compiler (for example , gcc) defines by  Yocto.
 ${CFLAGS} : option of  compilation (optimisations, architecture cible, etc.).
 ${LDFLAGS} : options of  linker to generate compatible binaries.
+
+## the oe-runmake :
+
