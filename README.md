@@ -14,4 +14,4 @@ ${CFLAGS} : option of  compilation (optimisations, architecture cible, etc.).
 ${LDFLAGS} : options of  linker to generate compatible binaries.
 ## 
 - recipe for hello.c simple code (fetch source from file /tasks :do-compile ()and do-install()
-- recipe for QT/C++  aplication (fetch source from git with the HTTPS  protocol /tasks :do -install () and using inherit qmake to compile the application    
+- recipe for QT/C++  aplication (fetch source from git with the HTTPS  protocol /tasks :do -install () and using inherit qmake to generate  the makefile    
