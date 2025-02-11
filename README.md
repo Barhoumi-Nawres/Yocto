@@ -16,3 +16,4 @@ ${LDFLAGS} : options of  linker to generate compatible binaries.
 - recipe for hello.c simple code (fetch source from file /tasks :do-compile ()and do-install()
 - recipe for QT/C++  aplication (fetch source from git with the HTTPS  protocol /tasks : do_configure /do_compile /do -install ()
   
+about custom -image if you have target (hardware ) so you need copy also bootfs (from core-image-minimal )with rootfs from the custom-image inti SD card . 
