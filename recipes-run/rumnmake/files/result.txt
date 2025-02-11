@@ -1,6 +1,0 @@
-root@qemux86-64:/usr/bin# ./calculation 10 5
-la division est2.000000
-la multiplication est 50
-l'addition est 15
-la substraction est 5
-root@qemux86-64:/usr/bin# 
