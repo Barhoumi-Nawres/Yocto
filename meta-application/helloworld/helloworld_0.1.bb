@@ -1,4 +1,4 @@
-SUMMARY = "bitbake-layers recipe"
+SUMMARY = "hello recipe"
 DESCRIPTION = "Simple recipe for simple c program"
 LICENSE = "CLOSED"
 
